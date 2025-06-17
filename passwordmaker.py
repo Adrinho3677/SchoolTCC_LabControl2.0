@@ -30,30 +30,9 @@ comprimento=14
 senha_gerada = gerar_senha(comprimento)
 print(f'Senha gerada: {senha_gerada}')
 
-
-
-lucio = '}udy=4PmQtWTlz'
-maria_jesus = 'cpF5LHQ:5KOiI%'
-leandro = '_sld8ZYxP}gYMv'
-glecio = 'MIq8lH63H{%kpM'
-nilo = 'E+EOhB6Yl8OJ<D'
-lorena_silva = 'REpw#URL4?1qj6'
-maria_cristina = 'SDarF9$todcW#j'
-lorena_azevedo = 'ze[fSc3@paxr4c' #Faltam informações: CPF
-thiago = 'B.IvRvVyRmBj-A'
-
 senha_simplificada = '123456789'
 
 lista_senhas = {
-    'lucio':lucio,
-    'maria_jesus':maria_jesus,
-    'leandro':leandro,
-    'glecio':glecio,
-    'nilo':nilo,
-    'lorena_silva':lorena_silva,
-    'maria_cristina':maria_cristina,
-    'lorena_azevedo':lorena_azevedo,
-    'thiago':thiago,
     'senha_simplificada':senha_simplificada
     }
 
